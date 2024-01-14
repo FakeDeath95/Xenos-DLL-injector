@@ -1,0 +1,19 @@
+2024-01-13 18:12:28 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2024-01-13 18:19:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2312, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-01-13 18:19:17 *CRITICAL*   Injecting image 'D:\Downloads\YimMenu.dll'
+
+2024-01-13 18:19:54 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2024-01-13 18:19:57 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2312, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-01-13 18:19:57 *CRITICAL*   Injecting image 'D:\Downloads\YimMenu.dll'
+2024-01-13 18:19:57 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2024-01-13 18:19:57 *ERROR*      Failed to inject image 'D:\Downloads\YimMenu.dll'.
+Error code 0xC000010E
+
+2024-01-13 18:20:09 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2024-01-13 18:20:10 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2312, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-01-13 18:20:10 *CRITICAL*   Injecting image 'D:\Downloads\YimMenu.dll'
+2024-01-13 18:20:10 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2024-01-13 18:20:10 *ERROR*      Failed to inject image 'D:\Downloads\YimMenu.dll'.
+Error code 0xC000010E
+2024-01-13 18:20:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2272, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-01-13 18:20:31 *CRITICAL*   Injecting image 'D:\Downloads\YimMenu.dll'
